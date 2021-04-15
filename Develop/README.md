@@ -1,4 +1,4 @@
-Pro RDME Generator
+Professional README Generator
     
     #### Table of Contents
 
@@ -11,19 +11,19 @@ Pro RDME Generator
 7. [Questions](#questions)
 
 ## Project Description
-* Making a readme
+* This is a command line application that generates a professional READ.me file by user created data, using the inquirer package.
 
 ## Installation Instructions
-* Inquirer
+* Install NPN to get the inquirer package
 
 ## Usage Information
-* To make a quality readme for an application
+* Generates a unique README file
 
 ## Contributor Guidelines
 * No
 
 ## Test Instructions
-* Inquirer must be installed onto the local terminal. Then enter node index into the terminal to start the questions.
+* No text instructions necessary
 
 ## License
 * licensed under the [MIT License](LICENSE.txt)
