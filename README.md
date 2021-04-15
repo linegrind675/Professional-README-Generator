@@ -1,6 +1,6 @@
 # Professional-README-Generator
 
-    #### Table of Contents
+    ### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
